@@ -1,4 +1,4 @@
-const CACHE = "fitness-diet-mobile-v5";
+const CACHE = "fitness-diet-mobile-v6";
 const APP_SHELL = ["/mobile/", "/mobile/manifest.webmanifest", "/mobile/icon.svg", "/mobile/icon-192.png", "/mobile/icon-512.png"];
 
 self.addEventListener("install", (event) => {
